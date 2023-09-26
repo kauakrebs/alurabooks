@@ -1,2 +1,0 @@
-# alurabooks
-site alurabooks
